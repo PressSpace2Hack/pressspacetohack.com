@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pressspacetohack
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pressspacetohack.com
+  * I am pressspacetohack (https://keybase.io/pressspacetohack) on keybase.
+  * I have a public key ASCwhd0aFBeI8uLqDQ_bqN5vdPPsKcJ29XqvoTEeGXKGhAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b085dd1a141788f2e2ea0d0fdba8de6f74f3ec29c276f57aafa1311e197286840a",
+      "host": "keybase.io",
+      "kid": "0120b085dd1a141788f2e2ea0d0fdba8de6f74f3ec29c276f57aafa1311e197286840a",
+      "uid": "8c2cac09c93964c78c51ecf11ec28c19",
+      "username": "pressspacetohack"
+    },
+    "merkle_root": {
+      "ctime": 1578415131,
+      "hash": "2336b97d189b70d0fb08c25ae2e1b98e17acea66a193223dfcd54a022dee7a80f31948fe143036cc6f5cc66ee3b1e00ac1754e7fb64e41b63b42e04790e20540",
+      "hash_meta": "0062ccfa383dc7bf66f6cdd5ad9da7d6f82a027cda05aa96c7187d7c4abec6b9",
+      "seqno": 14124409
+    },
+    "service": {
+      "entropy": "agFLZFmVWb8acbU3pRYlX9sn",
+      "hostname": "pressspacetohack.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578415146,
+  "expire_in": 504576000,
+  "prev": "5f3101ef7da599981ef40e2913b6147dedd7e1f2d04d03aa649df63ad1905677",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsIXdGhQXiPLi6g0P26jeb3Tz7CnCdvV6r6ExHhlyhoQKp3BheWxvYWTESpcCB8QgXzEB732lmZge9A4pE7YUfe3X4fLQTQOqZJ32OtGQVnfEIANFJWKmVYlgE2dQGsmXKzhiM9r3pY864t1+QuTss1imAgHCo3NpZ8RA+J43QaYR/iWqqQt1XbBKTCTJbJLD++fPY40lZFohwp/VonbqrUQQN6Uh6Y8b8Azt29fLCsgdIG+OTgwwFbwkAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM00W2aL6leZDVsJ91dd+58T3rleqh7ib59K4OJBsX+4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pressspacetohack
+
+==================================================================
